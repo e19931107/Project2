@@ -19,11 +19,11 @@ https://public.tableau.com/app/profile/edward.chen5890/vizzes
 ![Taoyuan property price analysis-6](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/b5d8aff7-ec5e-4c6d-8b26-040c076d3ba2)
 ![Taoyuan property price analysis-7](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/a6f413a4-9e1d-4241-a920-58c3756d6aee)
 ![Taoyuan property price analysis-8](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/49d3eb37-ce70-4294-8543-dfb1bb79eefb)
-![Taoyuan property price analysis-9](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/3191a75d-85fa-45cf-b880-a552e3d0a034)
+![Taoyuan property price analysis-9](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/fc62d78c-4f4d-4ba5-aa1d-1bee03437486)
 ![Taoyuan property price analysis-10](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/ba5a0a46-a53c-4a0e-9165-16f790b07475)
 ![Taoyuan property price analysis-11](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/cf47091a-4c06-4dc4-8dff-13fe31e94677)
 ![Taoyuan property price analysis-12](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/09cd0b07-5b16-4c84-bcb4-7476cb0656c8)
 ![Taoyuan property price analysis-13](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/0805d4f2-e950-4eba-8ec7-ae05f206cc83)
 
 PDF file:
-[Taoyuan property price analysis.pdf](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/files/13868656/Taoyuan.property.price.analysis.pdf)
+[Taoyuan property price analysis.pdf](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/files/13868764/Taoyuan.property.price.analysis.pdf)
