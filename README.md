@@ -33,9 +33,6 @@ https://public.tableau.com/app/profile/edward.chen5890/vizzes
 
 ![Taoyuan property price analysis (10)](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/assets/50692450/49af6acf-09ad-43d8-a3c9-e096df3fa3bc)
 
-[Taoyuan property price analysis.pdf](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/files/13868654/Taoyuan.property.price.analysis.pdf)
-
-
-For more details regarding this project, check for my Google slide:
-https://docs.google.com/presentation/d/18IlHvqS_IMy2F6Khw7LM5VuDQcvtTslvSyTg1U1LRyE/edit?usp=sharing
+PDF file:
+[Taoyuan property price analysis.pdf](https://github.com/e19931107/Python-Taoyuan_Property_Market_In_Depth_Analysis/files/13868656/Taoyuan.property.price.analysis.pdf)
 
